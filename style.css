@@ -143,7 +143,7 @@ p{
     background-color: transparent;
 }
 .backround{
-    background-image: url(public/images/designer-12-x.png);
+    background-image: url(designer-12-x.png);
     height: 100vh;
     background-size: contain;
     background-position: top right;
